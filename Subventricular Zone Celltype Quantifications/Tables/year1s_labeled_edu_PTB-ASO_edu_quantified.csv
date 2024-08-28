@@ -1,0 +1,5 @@
+,clusters,count,dataset
+0,Ependymal,4,year1s_labeled_edu_PTB-ASO
+1,Progenitor,1,year1s_labeled_edu_PTB-ASO
+2,Stage 2,11,year1s_labeled_edu_PTB-ASO
+3,Stage 3,18,year1s_labeled_edu_PTB-ASO
