@@ -1,0 +1,20 @@
+Celltype,Raw Count,Normalized Count
+Striatal neurons,188,0.6025641025641025
+Striatal oligodendrocytes,34,0.10897435897435898
+Striatal astrocytes,29,0.09294871794871795
+Striatal endothelial,12,0.038461538461538464
+Sparse endothelial,9,0.028846153846153848
+Sparse microglia,7,0.022435897435897436
+Sparse OPC,6,0.019230769230769232
+Striatal neurons 2,5,0.016025641025641024
+Cortical neurons,4,0.01282051282051282
+Striatal GABAergic neurons,4,0.01282051282051282
+Oligodendrocytes,3,0.009615384615384616
+Cortical endothelial,2,0.00641025641025641
+Cortical neurons 2,2,0.00641025641025641
+Cortical astrocytes,2,0.00641025641025641
+Thalamic astrocytes,1,0.003205128205128205
+Cortical L6 neurons,1,0.003205128205128205
+Hypothalamic neurons,1,0.003205128205128205
+Cortical oligondendrocytes,1,0.003205128205128205
+Thalamic endothelial,1,0.003205128205128205
